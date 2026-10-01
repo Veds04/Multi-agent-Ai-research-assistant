@@ -1,0 +1,17 @@
+# Environment variables
+.env
+!.env.example
+
+# Virtual environment
+.venv/
+venv/
+
+# ChromaDB
+chroma_db/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code
+.vscode/
